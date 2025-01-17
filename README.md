@@ -1,9 +1,9 @@
 ## 📄 Description
 
-👽 This is a UFO theme web application designed for users interested in exploring and documenting UFO sightings. 
-The site provides an intuitive navigation with a secure authentication system where users can create accounts and log in to access a private section of the website.
-Once logged in, users can contribute by adding new posts detailing UFO sightings, complete with descriptions and relevant details.
-In addition to creating posts, users have the ability to update their previously submitted sightings, ensuring the information remains accurate and up-to-date.
+👽 This is a UFO theme web application project designed for users to explore and document UFO sightings. 
+The site provides an intuitive navigation with a secure authentication system where users can sign up and log in to access the private navigation.
+Once logged in, users can contribute by adding new posts detailing UFO sightings, writing descriptions and relevant details.
+Moreover, users can update their previously submitted sightings, ensuring the information remains accurate and up-to-date.
 If necessary, users can also delete their posts, maintaining full control over their shared content. 🛸
 
 
