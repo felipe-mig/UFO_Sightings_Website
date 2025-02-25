@@ -43,7 +43,7 @@ The website is optimized for a 15.6" 1920 x 1080 display with a 16:9 aspect rati
 ![Screenshot5](screenshots/Screenshot5.webp)
 
 
-♦️ You will need a local server and import the database to display the website on your browser. 
+♦️ You may need a local server and import the database to display the website on your browser. 
 
 ## 📒 How to run a local server
 
